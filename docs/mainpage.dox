@@ -1,0 +1,9 @@
+/**
+@brief Documentation file to be used in Doxygen main page.
+@author Steve Martell at IPHC
+@file
+*/
+/**
+@mainpage Demo API
+This is a simple demonstration of using API in github
+*/
