@@ -119,7 +119,7 @@ __Terminal__
 	> git push origin gh-pages
 
 
-Thats it. You should now be able to visity the [GitHub Pages](http://smartell.github.io/APIDemo/) section of your repository and view the Doxygen html output.
+Thats it. You should now be able to visit the [GitHub Pages](http://smartell.github.io/APIDemo/) section of your repository and view the Doxygen html output.
 
 Good Luck
 ___
