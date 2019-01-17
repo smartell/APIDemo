@@ -1,4 +1,4 @@
-# How to used Doxygen with GitHUB
+# How to use Doxygen with GitHUB
 
 This is a simple demo for hosting Doxygen Code on Github.  All of the instructions herein are based on the command line and was tested on a mac.
 
